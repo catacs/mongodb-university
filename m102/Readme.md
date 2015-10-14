@@ -1,0 +1,1 @@
+Walk through the basics of installing MongoDB. Learn about JSON and Mongo's extensive query capabilities through the Mongo shell, importing and exporting data into Mongo. Replication and fault tolerance. Scaling out with MongoDB, including indexing, performance tuning, monitoring, and sharding. Backups and recovery.
